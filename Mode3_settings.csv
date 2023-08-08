@@ -1,0 +1,34 @@
+﻿Name;Type;Value;Unit
+XrayTube;string;Panalytical microfocus X-ray tube 90kV E/SWT;None
+Detector;string;Dexella 1512NDT;None
+XrayTubeWindow;string;0.30 Be;mm
+BeamFiltration;string;None;mm
+TubeVoltage;float;60.0;kV
+TubeCurrent;float;1000.0;μA
+TubePower;float;60.0;W
+ExposureTime;float;50.0;ms
+Binning;int;1;None
+Averaging;int;1;None
+ProjectionsNumber;int;3601;None
+DetPixSize;float;0.0748;mm
+ProjectionLength;int;1912;None
+mag_obj;float;417.000;mm
+mag_det;float;490.000;mm
+rot_obj;float;-0.578;degree
+ver_tube;float;250.0000;mm
+ver_det;float;243.7608;mm
+tra_obj;float; 0.524414;mm
+tra_tube;float; 0.00000;mm
+tra_det;float;-25.497070;mm
+SOD;float;431.019989;mm
+SDD;float;529.000488;mm
+VoxelSize;float;60.946;μm
+Magnification;float;1.227;None
+StartAngle;float;0.000;degree
+LastAngle;float;360.000;degree
+PreFlatFieldsNumber;int;100;None
+PostFlatFieldsNumber;int;100;None
+PreDarkFieldsNumber;int;100;None
+RotationSpeed;float;2.000;degree/s
+RotationAcceleration;float;11.250;degree/s^2
+ScanMode;string;Continuous rotation;None
