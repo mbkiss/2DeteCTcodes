@@ -9,6 +9,8 @@ This is a collection of Python scripts for loading, pre-processing, reconstructi
 * ` NesterovGradient.py ` contains the implementation of an accelerated gradient descent (AGD) iterative reconstruction by Henri Der Sarkissian.
 * ` Reconstructions_2DeteCT.py ` was used to produce the reference reconstructions of the 2DeteCT data collection from the sinogram data of the first bullet point using the above AGD iterative reconstruction.
 * ` Segmentation_2DeteCT.ipynb ` was used to produce the reference segmentations of the 2DeteCT data collection based on the reconstructions of ‘mode 2’ from the bullet point above.
+* ` Mode1_settings.csv `, ` Mode2_settings.csv `, ` Mode3_settings.csv ` are machine-readable settings files for the 2DeteCT data collection acquisition.
+* ` ReadingSettings_2DeteCT.py ` contains a class for reading in the 2DeteCT acquisition settings from the above mentioned .csv files.
 
 * The complete data collection can be found via the following links: [1-1,000](https://doi.org/10.5281/zenodo.8014757), [1,001-2,000](https://doi.org/10.5281/zenodo.8014765), [2,001-3,000](https://doi.org/10.5281/zenodo.8014786), [3,001-4,000](https://doi.org/10.5281/zenodo.8014828), [4,001-5,000](https://doi.org/10.5281/zenodo.8014873), [5,521-6,370](https://doi.org/10.5281/zenodo.8014906).
 
