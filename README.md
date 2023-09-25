@@ -1,7 +1,7 @@
 # 2DeteCTCodes
 This is a collection of Python scripts for loading, pre-processing, reconstructing and segmenting X-ray CT projection data of the 2DeteCT data collection as described in
 
-[Maximilian B. Kiss, Sophia B. Coban, K. Joost Batenburg, Tristan van Leeuwen, and Felix Lucka "2DeteCT - A large 2D expandable, trainable, experimental Computed Tomography dataset for machine learning",Maximilian B. Kiss, Sophia B. Coban, K. Joost Batenburg, Tristan van Leeuwen, and Felix Lucka “"2DeteCT - A large 2D expandable, trainable, experimental Computed Tomography dataset for machine learning", Sci Data 10, 576 (2023)](https://doi.org/10.1038/s41597-023-02484-6) or [arXiv:2306.05907 (2023)](https://arxiv.org/abs/2306.05907)
+Maximilian B. Kiss, Sophia B. Coban, K. Joost Batenburg, Tristan van Leeuwen, and Felix Lucka "2DeteCT - A large 2D expandable, trainable, experimental Computed Tomography dataset for machine learning", [Sci Data 10, 576 (2023)](https://doi.org/10.1038/s41597-023-02484-6) or [arXiv:2306.05907 (2023)](https://arxiv.org/abs/2306.05907)
 
 
 * ` Sinogram_production_2DeteCT.ipynb ` was used to produce the sinograms of the 2DeteCT data collection from the raw measurements.
